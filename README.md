@@ -15,6 +15,6 @@ python blocks.py --> For creating a basic blocks for u-net model with attention 
 
 python model.py --> creating a compiled model that is ready for training on any dataset with segmented masks for pancreas segmentation.
 
-[for more information read](https://iq.opengenus.org/p/e1b95e32-982c-4a7a-8998-3aefd00b0ab1/)
+for more information read [this article] (https://iq.opengenus.org/p/e1b95e32-982c-4a7a-8998-3aefd00b0ab1/)
 
 
